@@ -10,12 +10,10 @@
 </head>
 
 <body>
-    <header>ALURAFLIX</header>
-
     <section>
         <div>
             <h1>There's still time</h1>
-            <p>#I Saw The Tv Glow/p>
+            <p> #I Saw The Tv Glow </p>
         </div>
 
         <div>
