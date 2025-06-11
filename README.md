@@ -12,8 +12,8 @@
 <body>
     <section>
         <div>
-            <h1>There's still time</h1>
-            <p> #I Saw The Tv Glow </p>
+            <h1>I Saw The Tv GLow</h1>
+            <p>  </p>
         </div>
 
         <div>
